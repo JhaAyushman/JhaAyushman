@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and dynamic programming.
 - 💞️ I’m looking to contribute in open source. 
 - 📫 How to reach me -- Just drop a mail on jhaayushman2004@gmail.com
-- 😄 Pronouns: Ayush
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: World Needs Freshers With Experiences.
 
 <!---
